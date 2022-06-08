@@ -1,57 +1,5 @@
 # webResource
 
-## JavaScript Libraries 
-
-[jQuery](http://jquery.com/)：最知名的 JavaScript 库。 
-
-[BackBoneJS](http://backbonejs.org/)：为复杂 WEB 应用程序提供 MVP 结构。 
-
-[D3.js](http://d3js.org/)：最流行的 Javascript 可视化图形库之一。 
-
-[React](https://facebook.github.io/react/)：Facebook 开源的 JavaScript 库。 
-
-[jQuery UI](http://jqueryui.com/)：以 jQuery 为基础的开源 JavaScript 网页用户界面代码库。 
-
-[jQuery Mobile](http://jquerymobile.com/)：jQuery 框架的一个组件，提供完整统一的移动 UI 框架。 
-
-[Underscore.js](http://underscorejs.org/)：提供了一整套函数式编程的实用功能，但是没有扩展任何 JavaScript 内置对象。 
-
-[Moment.js](http://momentjs.com/)：一个JavaScript 日期处理类库，用于解析、检验、操作、以及显示日期。 
-
-[Lodash](https://lodash.com/)：一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库。 
-
-## 前端框架 
-
-[Bootstrap](http://getbootstrap.com/)：著名的快速开发响应式 Web 应用程序的前端工具包。 
-
-[Foundation](http://foundation.zurb.com/)：一个易用、强大而且灵活的前端框架，用于构建基于任何设备上的 Web 应用。 
-
-[Semantic UI](http://semantic-ui.com/)：全语义化的前端界面开发框架。 
-
-[uikit](http://getuikit.com/)：一款轻量级开源的前端框架。 
-
-## 数据库 
-
-[MySQL](https://www.mysql.com/)：最流行的关系型数据库管理系统。 
-
-[MariaDB](https://mariadb.org/)：由 MySQL 早期员工开发，属于 MySQL 的一个分支。 
-
-[MongoDB](https://www.mongodb.org/)：基于分布式文件存储的数据库。 
-
-[Redis](http://redis.io/)：一个开源、支持网络、基于内存、键值对存储数据库。 
-
-[PostgreSQL](http://www.postgresql.org/)：开源的对象 - 关系型数据库管理系统，Uber 早期就是用得这个。 
-
-##Task Runners / Package Managers 
-
-[Grunt](http://gruntjs.com/)：JavaScript 世界的构建工具。 
-
-[Gulp](http://gulpjs.com/)：基于流的自动化构建工具。 
-
-[Bower](http://bower.io/)：Web 包管理器，包括 HTML，CSS，JavaScript，字体、甚至图片资源。 
-
-[NPM](https://www.npmjs.com/)：Node 包管理器。 
-
 ## CSS 预处理器 
 
 [Sass](http://sass-lang.com/)：一个强大、成熟、稳定的 CSS 扩展。 
@@ -79,60 +27,6 @@
 [IconFinder](https://www.iconfinder.com/):IconFinder 
 
 [Fontello](http://fontello.com/):Fontello 
-
-## Git Clients / Services 
-
-[SourceTree](https://www.sourcetreeapp.com/)：一款免费并且很酷的 Git 客户端，支持 Windows 和 Mac。 
-
-[GitKraken](http://www.gitkraken.com/)：一款免费、直观、漂亮的跨平台 Git 客户端。 
-
-[Tower 2](https://www.git-tower.com/)：APP 很漂亮，需付费。 
-
-[GitHub Client](https://desktop.github.com/)：官方客户端。 
-
-[Gogs](https://gogs.io/)：一个极易搭建的自助 Git 服务。 
-
-[GitLab](https://about.gitlab.com/gitlab-com/)：对私有项目也免费。 
-
-## 本地开发环境 
-
-[XAMPP](https://www.apachefriends.org/index.html)：完全免费，容易安装的 Apache 分布式环境。包括：MariaDB，PHP，Perl。 
-
-[MAMP](https://www.mamp.info/en/)：Apache + MySQL + PHP + Python + Perl。 
-
-[WampServer](http://www.wampserver.com/en/)：Windows 下的 Web 开发环境，可以创建基于 Apache 2，PHP 和 MySQL 的 Web 应用。 
-
-[Vagrant](https://www.vagrantup.com/)：安装和配置简单、轻量级。 
-
-[Laragon](https://laragon.org/)：快速、容易搭建的 Windows 本地开发环境。包括：MySQL，PHP，Redis，Apache。 
-
-## 文件比对 
-
-[Diffchecker](https://www.diffchecker.com/)：文件比对的在线网站。 
-
-[Beyond Compare](http://www.scootersoftware.com/)：老牌软件，能快速比较文件和文件夹，功能强大。 
-
-## Code Sharing / Experimenting 
-
-[codeshare](https://codeshare.io/)：能和其他开发者实时共享代码。 
-
-[JS Bin](http://jsbin.com/)：可以将编辑后的代码保存到本地，或将 URL 地址发给其他人，让其协助调试代码。支持HTML，CSS，JavaScript，Markdown，Jade 和 Sass。 
-
-[JSfiddle](https://jsfiddle.net/)：能自定义环境来测试你的 HTML，CSS，JavaScript 代码。 
-
-[Dabblet](http://dabblet.com/)：Web playground，交互效果不错。 
-
-## 团队协作 
-
-[Slack](https://slack.com/intl/ja/)：为团队打造的交流应用，我们部门就在用，强力推荐。 
-
-[Trello](https://trello.com/)：完全免费，灵活性高，可视化，和任何人一起管理任何事情。 
-
-[Glip](https://glip.com/)：支持实时消息、视频、视频会议、日历分享等等功能。 
-
-[Asana](https://asana.com/)：帮助追踪、记录团队成员的工作情况。 
-
-[Jira](https://www.atlassian.com/software/jira)：这个大家应该都用过吧，老牌团队协作应用。 
 
 ## 激发灵感 
 
